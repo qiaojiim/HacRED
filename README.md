@@ -89,7 +89,7 @@ If using the data at character-level in Chinese, `sent_word`, `vertex_word`, `la
     - t: tail mention/object index in `vertex_char`
 - **labels_word**: similar to `labels_char`, but `h` and `t` are computed based on `vertex_word`.
 
-```json
+```
 {
     "id": 6020,   # unique key can be used to identify a certain document
     "text": "......"
