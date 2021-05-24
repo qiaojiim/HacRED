@@ -71,7 +71,7 @@ Each line contains relevant annotations of a document. The overall format is sim
 
 If using the data at character-level in Chinese, `sent_char`, `vertex_char`, `labels_char` in HacRED are corresponding to `sents`, `vertexSet`, `labels` in DocRED, respectively.
 
-If using the data at character-level in Chinese, `sent_word`, `vertex_word`, `labels_word` in HacRED are corresponding to `sents`, `vertexSet`, `labels` in DocRED, respectively.
+If using the data at word-level in Chinese, `sent_word`, `vertex_word`, `labels_word` in HacRED are corresponding to `sents`, `vertexSet`, `labels` in DocRED, respectively.
 
 - **id**: unique key can be used to identify a certain document
 - **text**: text in a document
