@@ -145,6 +145,7 @@ If using the data at word-level in Chinese, `sents_word`, `vertex_word`, `labels
 
 ## Cite
 
+```
 @inproceedings{cheng-etal-2021-hacred,
     title = "{H}ac{RED}: A Large-Scale Relation Extraction Dataset Toward Hard Cases in Practical Applications",
     author = "Cheng, Qiao  and
@@ -160,3 +161,4 @@ If using the data at word-level in Chinese, `sents_word`, `vertex_word`, `labels
     year = "2021",
     pages = "2819--2831",
 }
+```
