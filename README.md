@@ -145,4 +145,18 @@ If using the data at word-level in Chinese, `sents_word`, `vertex_word`, `labels
 
 ## Cite
 
-Findings of ACL 2021
+@inproceedings{cheng-etal-2021-hacred,
+    title = "{H}ac{RED}: A Large-Scale Relation Extraction Dataset Toward Hard Cases in Practical Applications",
+    author = "Cheng, Qiao  and
+      Liu, Juntao  and
+      Qu, Xiaoye  and
+      Zhao, Jin  and
+      Liang, Jiaqing  and
+      Wang, Zhefeng  and
+      Huai, Baoxing  and
+      Yuan, Nicholas Jing  and
+      Xiao, Yanghua",
+    booktitle = "Findings of the Association for Computational Linguistics: ACL-IJCNLP 2021",
+    year = "2021",
+    pages = "2819--2831",
+}
