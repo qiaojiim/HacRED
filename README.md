@@ -37,7 +37,7 @@ main files:
 
 - **train.json**: with 6231 json lines
 - **dev.json**: with 1500 json lines
-- **test.json**: with 1500 json lines, without ground-truth such as `labels_char` and `labels_word` values 
+- **test.json**: with 1500 json lines 
 - **rel2id.json**: a dict mapping relation to id
 
 meta-data files:
