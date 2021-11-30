@@ -31,7 +31,7 @@ Notably, HacRED is one of the largest Chinese document-level RE datasets and ach
 | Ratio of Biased Relations           | 0.00%  |
 | Ratio of Top-20% Relational Triples | 49.96% |
 
-## File List & Download
+## File List 
 
 main files:
 
@@ -43,16 +43,24 @@ main files:
 meta-data files:
 
 - **char2id.json**
-
 - **word2id.json**
-
 - **ner2id.json**
-
 - **vec_100d.npy**: pretrained word embeddings from the paper **Analogical Reasoning on Chinese Morphological and Semantic Relations** (https://github.com/Embedding/Chinese-Word-Vectors)
-
 - **vec_300d.npy**: similar to vec_100d.npy
-
 - **schema.json**
+
+hard cases for detailed analysis:
+
+- **1_diff_num_triples_{}.json**
+- **2_text_len_arg_dist_all.json**
+- **3_homo_ents_similar_rel.json**
+- **4_long_tail.json**
+- **5_overlapped_multi_triples.json**
+- **6_overlapped_subj_multi_triples.json**
+- **6_overlapped_obj_multi_triples.json**
+- **7_distractor_reason.json**
+
+## Download
 
 
 1. Download from google drive:
